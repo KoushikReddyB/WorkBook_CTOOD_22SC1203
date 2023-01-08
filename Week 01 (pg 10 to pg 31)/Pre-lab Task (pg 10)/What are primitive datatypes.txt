@@ -1,0 +1,7 @@
+1. What are primitive datatypes?
+
+SOLUTION: 
+Data types in Java specify how the values of the variable get stored in memory. Each variable has a 
+data type that decides what type of value the variable will hold. Moreover, Primitive Data Types are 
+also used with functions to define their return type.
+The 8 primitive datatypes are boolean, char, byte, short, int, long, float and double.

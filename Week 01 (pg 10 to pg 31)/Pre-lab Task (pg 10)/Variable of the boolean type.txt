@@ -1,0 +1,4 @@
+4. Variable of the boolean type is automatically initialized as? 
+
+SOLUTION: 
+The default value of a boolean type is automatically initialized as "false".

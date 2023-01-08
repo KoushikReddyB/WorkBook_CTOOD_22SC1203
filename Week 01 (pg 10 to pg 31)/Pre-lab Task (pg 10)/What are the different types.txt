@@ -1,0 +1,5 @@
+3. What are the different types of conditional and iterative statements in java? 
+
+SOLUTION: 
+The conditional statements or decisional statements are if, if-else, and switch.
+The iterative statements or loops are for, while, do-while and for-each.
