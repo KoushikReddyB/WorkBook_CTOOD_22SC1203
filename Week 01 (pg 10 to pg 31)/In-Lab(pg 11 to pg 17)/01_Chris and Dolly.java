@@ -37,7 +37,6 @@ public class InLab01 {
 			cost=(NumberOfUnits*8)+250;
 		}
 		System.out.println("Amount to be paid: "+cost);
-
 	}
 
 }

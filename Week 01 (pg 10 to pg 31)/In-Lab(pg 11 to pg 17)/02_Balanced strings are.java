@@ -23,7 +23,7 @@ LINK: https://bit.ly/CTOOD-W1PO1 */
 /*WorkBook Solution:*/
 package week01;
 import java.util.*;
-class InLab02 {
+public class InLab02 {
     private static int balancedStringSplit(String s) {
         int sum=0,ans=0;
         for(int i=0;i<s.length();i++){
