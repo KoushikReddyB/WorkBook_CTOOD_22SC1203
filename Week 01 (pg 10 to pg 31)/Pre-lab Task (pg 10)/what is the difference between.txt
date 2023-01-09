@@ -1,5 +1,4 @@
 5. What is the difference between data types and data structures?
 
 SOLUTION:
-Data type is one of the forms of a variable to which the value can be assigned of a 
-given type only. Data structure is a collection of data of different data types
+Data type is one of the forms of a variable to which the value can be assigned of a given type only. Data structure is a collection of data of different data types

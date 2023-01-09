@@ -1,6 +1,4 @@
-/* 2. Given a number N, check if a number is perfect or not. A number is said to be perfect if sum of all its factors 
-excluding the number itself is equal to the number. Now your task to check whether the given number is Perfect number 
-or not */
+/* 2. Given a number N, check if a number is perfect or not. A number is said to be perfect if sum of all its factors excluding the number itself is equal to the number. Now your task to check whether the given number is Perfect number or not */
 package week01;
 import java.util.*;
 public class PerfectNumber {

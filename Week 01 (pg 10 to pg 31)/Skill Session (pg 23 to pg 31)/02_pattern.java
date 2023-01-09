@@ -1,6 +1,4 @@
-/* 2. Romeo proposed Juliet. Juliet is the college topper, so she has given a crazy star pattern for Romeo to print it. 
-If Romeo prints it then there is some chance that Juliet accepts his proposal. But Romeo is very poor at coding, can you 
-please help to make their love successful by printing the below pattern?
+/* 2. Romeo proposed Juliet. Juliet is the college topper, so she has given a crazy star pattern for Romeo to print it.If Romeo prints it then there is some chance that Juliet accepts his proposal. But Romeo is very poor at coding, can you please help to make their love successful by printing the below pattern?
 
                                     *****
                                      ****
