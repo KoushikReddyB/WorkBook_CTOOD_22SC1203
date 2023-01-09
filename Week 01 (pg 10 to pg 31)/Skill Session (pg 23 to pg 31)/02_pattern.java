@@ -8,7 +8,7 @@
  */
 package week01;
 import java.util.*;
-public class S02Pattern {
+public class Pattern {
 
 	public static void main(String[] args) {
 		Scanner in=new Scanner(System.in);
