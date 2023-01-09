@@ -2,7 +2,7 @@
 
 Link: https://bit.ly/CTOOD-W1S3
 */
-package week01;
+package week;
 import java.util.Scanner;
 public class Tables {
 
@@ -16,7 +16,7 @@ public class Tables {
 		for(int i=1;i<=10;i++)
 		{
 			multi=i*n;
-			System.out.println(n+" X "+n+" = "+multi);
+			System.out.println(n+" X "+i+" = "+multi);
 		}
 	}
 
