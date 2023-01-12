@@ -16,22 +16,32 @@ public class Utility {
 	}
 }
 /* Code02 */
-package p1;
-import java.util.*;
-import p2.*;
-public class Demo {
+package p2;
 
-	public static void main(String[] args) {
-		Scanner in=new Scanner(System.in);
-		System.out.print("Enter a number ( palindrome check ) >> ");
-		long n=in.nextLong();
-		DisplayAll.displayPalindromeNOs(n);
-		System.out.print("Enter a number ( armstrong check ) >> ");
-		int m=in.nextInt();
-		in.close();
-		DisplayAll.displayArmstrong(m);
+public class Checker {
+	public static boolean isArmstrong(int n) {
+		int rem,temp=n,sum=0;
+		while(n>0) {
+			rem=n%10;
+			sum=sum+(rem*rem*rem);
+			n=n/10;
+		}
+		if(temp==sum) {
+			return true;
+		}
+		else {
+			return false;
+		}
 	}
-
+	public static boolean isPalindrome(long n) {
+		long temp=n;
+		if(temp==Utility.findReverse(n)) {
+			return true;
+		}
+		else {
+			return false;
+		}
+	}
 }
 /* Code03 */
 package p2;
