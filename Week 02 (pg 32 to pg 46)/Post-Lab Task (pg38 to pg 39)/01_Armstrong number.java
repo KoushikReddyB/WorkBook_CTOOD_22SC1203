@@ -1,0 +1,1 @@
+/* 1. Write a class Armstrong with 2 static methods is Armstrong() to check whether a given number is Armstrong or not and display Armstrong) to displays all Armstrong numbers up ton". Acces them using main () method from the same class. */
