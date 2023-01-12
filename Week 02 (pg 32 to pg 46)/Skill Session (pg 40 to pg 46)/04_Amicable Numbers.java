@@ -1,0 +1,4 @@
+/* 4. Amicable numbers are two different natural numbers related in such a way that the sum of the proper divisors of each is equal to the other number. The smallest pair of amicable numbers is (220, 284). They are amicable because the proper divisors of 220 are 1, 2, 4, 5, 10, 11, 20, 22, 44, 55 and 110, of which the sum is 284; and the proper divisors of 284 are 1, 2, 4, 71 and 142, of which the sum is 220. Create a class Amicable with 3 static methods isFactor () which finds whether a given number,,n" is a factor of,,m", isAmicable () to check whether a given number ,,n" and ,,m" are Amicable or not and displayAllAmicableNos () to displays all pairs of Amicable numbers up to,,n". Access them using main () from the same class. (Take hard coded input). */
+
+
+/* NEED TO BE UPDATED - ISSUE WITH THE EXECUTION OF CODE... */

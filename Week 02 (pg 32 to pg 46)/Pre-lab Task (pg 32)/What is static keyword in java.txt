@@ -1,0 +1,4 @@
+2. What is static keyword in Java? 
+
+SOLUTION:
+The static keyword is a non-access modifier used for methods and attributes. Static methods/attributes can be accessed without creating an object of a class.

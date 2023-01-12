@@ -1,0 +1,4 @@
+4. Why main() method is declared as static? 
+
+SOLUTION:
+Java main() method is always static, so that compiler can call it without the creation of an object or before the creation of an object of the class.
