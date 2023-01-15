@@ -1,6 +1,6 @@
 /* 2. Consider the below class diagram and develop program */
 
-/* p1 */
+/* p2 */
 /* Code01 */
 package p2;
 
