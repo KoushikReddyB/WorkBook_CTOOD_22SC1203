@@ -1,3 +1,0 @@
-3. Enhance a Utility class from session no 7 by adding three more static methods. which overload existing Sort () which accepts an array of double to sort them, findSmallest () which accepts an array of double to find smallest value, findLargest () which accepts an array of double to find largest value Access overloading methods from main () of Demo class of different package. (Take input through command line.)
-6. Enhance the class Palindrome of Problem W02-P04 with another static method isPalindrome() to check whether an each element array is palindrome or not. If all the elements in the array are palindrome numbers then return true otherwise, return false. Access them using main () from the same class. (Take hard coded value for the variable n)
- ------- pg 60

@@ -1,0 +1,3 @@
+/* 6. Enhance the class Palindrome of Problem W02-P04 with another static method isPalindrome() to check whether an each element array is palindrome or not. If all the elements in the array are palindrome numbers then return true otherwise, return false. Access them using main () from the same class. (Take hard coded value for the variable n) */
+
+/* NEED TO BE UPDATED - ISSUE WITH THE EXECUTION OF CODE... */
