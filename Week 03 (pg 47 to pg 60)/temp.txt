@@ -1,9 +1,3 @@
-
-------------- pg 52
-1. Write a java program to create a class name called number with 2 methods (with same method name with different argument).In main methods call the methods based on the argument and observe the output
-2. Consider two closed circuits containing ten resistors each connected in series and parallel respectively. Find the total resistance of the two circuits. To model the above scenario, create a class Circuit with a static method findTotalResistance () which receives an array of integers which represent resistance of each resistor in the serial circuit and returns the total resistance. find TotalResistance() which receives an array of float which represent resistance of each resistor in the parallel circuit and returns the total resistance. Access the methods in Circuit class from its own main (). (Take hardcoded input)
-------------- pg 53
--------------- pg 54
 1. An organization contains 5 departments, and each department contains (9, 12, 14, 16, 21) faculty members in which there will be one Professor and two Associate Professors. Develop a java method to calculate total Assistant Professors present in the entire organization.
 2. Implement the following leetcode program using method overloading. You are given an array prices where prices[i] is the price of a given stock on the ith day. You want to maximize your profit by choosing a single day to buy one stock and choosing a different day in the future to sell that stock. Return the maximum profit you can achieve from this transaction. If you cannot achieve any profit, return 0.
 
