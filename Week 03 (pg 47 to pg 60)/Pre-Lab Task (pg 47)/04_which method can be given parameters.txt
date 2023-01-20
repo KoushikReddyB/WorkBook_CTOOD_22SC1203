@@ -1,0 +1,4 @@
+4. Which method can be given parameters via using command line arguments?
+
+SOLUTION:
+Only main() method can be given parameters via using command line arguments.

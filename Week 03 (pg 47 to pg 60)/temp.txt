@@ -1,0 +1,31 @@
+-----------pg 48
+1. For an interview, the candidates are waiting outside for their turn. Among these candidates one person is the referral candidate, and each candidate is given an interview ID no.HR staff was given a list containing the list of candidates attended for the interview, if the referral candidate attends the interview he will be in the selected list. Given the list of interview ID numbers, the task of the HR staff is to search the referral candidates ID no. Help HR staff to complete the task. To model this scenario, create a class Interview with a static method search () which accepts an array of integers which represent all the candidates ID numbers and a referral candidate ID number. If referral candidate ID is present in array return true otherwise, return false. Access the methods in Interview class from main () of HR class. (Take input through command line)
+2. 2. Write a java program to determine if a number n is happy. A happy number is a number defined by the following process:
+
+Starting with any positive integer, replace the number by the sum of the squares of its digits.
+
+Repeat the process until the number equals 1 (where it will stay), or it loops endlessly in a cycle which does not include 1.
+
+Those numbers for which this process ends in I are happy. Return true if n is a happy number, and false if not.
+
+LINK: https://bit.ly/CTOOD-W3P2
+3. Given an integer n, return true if it is a power of two. Otherwise, return false. An integer nisa power of two, if there exists an integer x such that n = 2x.
+
+LINK: https://bit.ly/CTOOD-W3P01
+------------ pg 51
+------------- pg 52
+1. Write a java program to create a class name called number with 2 methods (with same method name with different argument).In main methods call the methods based on the argument and observe the output
+2. Consider two closed circuits containing ten resistors each connected in series and parallel respectively. Find the total resistance of the two circuits. To model the above scenario, create a class Circuit with a static method findTotalResistance () which receives an array of integers which represent resistance of each resistor in the serial circuit and returns the total resistance. find TotalResistance() which receives an array of float which represent resistance of each resistor in the parallel circuit and returns the total resistance. Access the methods in Circuit class from its own main (). (Take hardcoded input)
+------------- pg 53
+-------------- pg 54
+1. An organization contains 5 departments, and each department contains (9, 12, 14, 16, 21) faculty members in which there will be one Professor and two Associate Professors. Develop a java method to calculate total Assistant Professors present in the entire organization.
+2. Implement the following leetcode program using method overloading. You are given an array prices where prices[i] is the price of a given stock on the ith day. You want to maximize your profit by choosing a single day to buy one stock and choosing a different day in the future to sell that stock. Return the maximum profit you can achieve from this transaction. If you cannot achieve any profit, return 0.
+
+LINK https://bit.ly/CTOOD-W3SKILL2
+3. Enhance a Utility class from session no 7 by adding three more static methods. which overload existing Sort () which accepts an array of double to sort them, findSmallest () which accepts an array of double to find smallest value, findLargest () which accepts an array of double to find largest value Access overloading methods from main () of Demo class of different package. (Take input through command line.)
+4. Create a class GeometricShape with three overloaded methods findArea () to find area of square, rectangle, and circle, and modularize at method, class, and package level. (Hint: To find area of a square pass an integer value and to find a circle pass a double value)
+5. Create a class GeometricShape with three overloaded methods findPerimeter () to find perimeter of square, rectangle, and circle. and modularize at method, class, and package level.
+
+Note: To find perimeter of a square pass an integer value and to find a circle pass a double value
+6. Enhance the class Palindrome of Problem W02-P04 with another static method isPalindrome() to check whether an each element array is palindrome or not. If all the elements in the array are palindrome numbers then return true otherwise, return false. Access them using main () from the same class. (Take hard coded value for the variable n)
+ ------- pg 60

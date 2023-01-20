@@ -1,0 +1,4 @@
+5. What is method signature? What are the things it consists of?
+
+SOLUTION: 
+Method Signature in java is defined as the structure of a method that is designed by the programmer. Method Signature is the combination of a method's name and its parameter list. A class cannot have two methods with the same signature. If we declare two methods with the same signature, compilation error is thrown.
