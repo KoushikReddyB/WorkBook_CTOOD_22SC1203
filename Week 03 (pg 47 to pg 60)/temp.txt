@@ -1,18 +1,4 @@
------------pg 48
-1. For an interview, the candidates are waiting outside for their turn. Among these candidates one person is the referral candidate, and each candidate is given an interview ID no.HR staff was given a list containing the list of candidates attended for the interview, if the referral candidate attends the interview he will be in the selected list. Given the list of interview ID numbers, the task of the HR staff is to search the referral candidates ID no. Help HR staff to complete the task. To model this scenario, create a class Interview with a static method search () which accepts an array of integers which represent all the candidates ID numbers and a referral candidate ID number. If referral candidate ID is present in array return true otherwise, return false. Access the methods in Interview class from main () of HR class. (Take input through command line)
-2. 2. Write a java program to determine if a number n is happy. A happy number is a number defined by the following process:
 
-Starting with any positive integer, replace the number by the sum of the squares of its digits.
-
-Repeat the process until the number equals 1 (where it will stay), or it loops endlessly in a cycle which does not include 1.
-
-Those numbers for which this process ends in I are happy. Return true if n is a happy number, and false if not.
-
-LINK: https://bit.ly/CTOOD-W3P2
-3. Given an integer n, return true if it is a power of two. Otherwise, return false. An integer nisa power of two, if there exists an integer x such that n = 2x.
-
-LINK: https://bit.ly/CTOOD-W3P01
------------- pg 51
 ------------- pg 52
 1. Write a java program to create a class name called number with 2 methods (with same method name with different argument).In main methods call the methods based on the argument and observe the output
 2. Consider two closed circuits containing ten resistors each connected in series and parallel respectively. Find the total resistance of the two circuits. To model the above scenario, create a class Circuit with a static method findTotalResistance () which receives an array of integers which represent resistance of each resistor in the serial circuit and returns the total resistance. find TotalResistance() which receives an array of float which represent resistance of each resistor in the parallel circuit and returns the total resistance. Access the methods in Circuit class from its own main (). (Take hardcoded input)
