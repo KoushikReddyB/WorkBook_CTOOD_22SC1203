@@ -1,3 +1,4 @@
 1. What are the Wrapper classes available for primitive types?
 
 SOLUTION:
+Each primitive type has a corresponding wrapper: Byte, Short, Int, Long, Float, Double, Boolean, Char.
